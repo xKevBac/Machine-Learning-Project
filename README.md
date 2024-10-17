@@ -5,3 +5,9 @@ Implemented Decision Tree, KNN(K-Nearest Neighbors) and Random Forest Classifier
 
 Download the Stroke Dataset CSV File Obtained from Kaggle
 Reference Link: https://www.kaggle.com/datasets/prosperchuks/health-dataset/data?select=stroke_data.csv
+
+**Libraries**
+-Scikit-Learn 
+-Matplotlib
+-pandas
+
